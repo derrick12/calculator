@@ -1,8 +1,8 @@
-# {Calculator}
-#### {This is a basic calculator that uses javascript to compute calculations}, {6th-August-2018}
+# Calculator
+#### This is a basic calculator that uses javascript to compute calculations, 6th-August-2018
 #### By Derrick Kariuki*
 ## Description
-{This is a detailed description of my calculator, it is used to compute addition calculations. It takes two numbers that the user inputs each at a time and displays the sum.}
+This is a detailed description of my calculator, it is used to compute addition calculations. It takes two numbers that the user inputs each at a time and displays the sum.
 ## Setup/Installation Requirements
 * You will need to have a browser installed preferably google-chrome and git if you want to clone the repository to you local directory.
 * Make a local directory in your computer where the application will reside.
